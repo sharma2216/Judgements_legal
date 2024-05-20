@@ -1,0 +1,14 @@
+torch
+transformers
+langchain
+chromadb
+pypdf
+xformers
+sentence_transformers
+InstructorEmbedding
+ pip
+ pdf2image
+matplotlib-venn
+auto-gptq
+pdf2image
+boto3
